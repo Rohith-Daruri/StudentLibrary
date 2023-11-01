@@ -1,4 +1,6 @@
 # StudentLibrary
+
+PATH:-(src>main>java/studentlibrary)
 This Repository has Code related to Student_Library Project build using SpringBoot Framework and Java.
 
 In the src file there are multiple packages created:-
